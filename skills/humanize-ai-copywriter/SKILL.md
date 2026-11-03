@@ -1,11 +1,16 @@
 ---
 name: humanize-ai-copywriter
-description: "Universal skill for zero-entropy, undetectable human copywriting, high-conversion sales, and dual SEO/GEO citations. Use whenever generating sales copy, landing pages, blog posts, or humanizing AI text to pass all AI detectors (GPTZero, Turnitin, Originality.ai)."
+description: "تولید محتوای انسانی فروشنده. Universal skill for zero-entropy, undetectable human copywriting, high-conversion sales, and dual SEO/GEO citations. Activate whenever the user mentions 'تولید محتوای انسانی فروشنده', generates sales copy, landing pages, blog posts, or wants humanized AI text to pass all AI detectors (GPTZero, Turnitin, Originality.ai)."
 author: "Taghi Molavi (molavi.pro)"
 license: "MIT"
 user-invokable: true
-argument-hint: "[topic or draft file]"
+aliases:
+  - "تولید محتوای انسانی فروشنده"
+  - "تولید-محتوای-انسانی-فروشنده"
+  - "persuasive-human-copywriter"
+argument-hint: "[topic, draft file, or voice URL]"
 tags:
+  - تولید-محتوای-انسانی-فروشنده
   - humanize-ai
   - undetectable-ai
   - copywriting
