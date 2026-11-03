@@ -1,0 +1,19 @@
+{
+  "topic": "PostgreSQL Automated Migration & Rollback CLI",
+  "target_audience": "Senior Backend Engineers & DevOps Leads",
+  "primary_intent": "commercial-sale",
+  "product_or_service_name": "pg-teleport",
+  "key_pain_points": [
+    "Locking production database tables during zero-downtime deployments",
+    "Flaky rollback scripts that leave schema state corrupted"
+  ],
+  "unique_selling_propositions": [
+    "Zero-lock shadow schema generation",
+    "Deterministic dry-run simulation against live production clone in 45 seconds"
+  ],
+  "keywords": [
+    "postgres zero downtime migration",
+    "database migration cli",
+    "pg rollback automation"
+  ]
+}

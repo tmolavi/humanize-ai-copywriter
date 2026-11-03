@@ -1,0 +1,9 @@
+# .cursorrules for humanize-ai-copywriter
+# Enforces zero-entropy copywriting & anti-AI detection standards across all generations
+
+always_enforce:
+  - zero_ai_cliches: ["delve", "tapestry", "pivotal", "in today's landscape", "seamless", "testament to", "foster"]
+  - min_burstiness: 0.38
+  - target_human_detector_score: 95.0+
+  - primary_goal: "persuasive-selling-unless-overridden"
+  - entropy: "minimal-noise-maximum-substance"
