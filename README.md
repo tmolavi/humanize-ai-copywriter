@@ -138,6 +138,8 @@ humanize-ai-copywriter clone-voice https://molavi.pro/research
 
 `Humanize-AI-Copywriter` is an integral pillar of the Taghi Molavi AI Visibility & Agent Engineering Ecosystem:
 
+- **[TM Molavi Agentic OS](https://github.com/tmolavi/molavi-agentic-os)**: Flagship open-source operating ecosystem for autonomous AI agents, skills, teams, and workflows (`pip install molavi-agentic-os`).
+- **[TM Second Brain](https://github.com/tmolavi/tm-second-brain)**: Local-first Markdown and Obsidian persistent memory infrastructure for AI agents.
 - **[GEO-Scope](https://github.com/tmolavi/geo-scope)**: Empirical measurement of AI answer citations across Perplexity, Google, and ChatGPT.
 - **[SAGE Audit](https://github.com/tmolavi/sage-audit)**: Static multi-layer SEO/AEO/GEO website diagnostics.
 - **[News Traffic Engine](https://github.com/tmolavi/news-traffic-engine)**: Autonomous newsroom AI traffic and Google Discover framework.
